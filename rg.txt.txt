@@ -1,0 +1,2 @@
+Good afternoon Mam, this our DCom Project.
+This above Text will be converted into Huffman Codes and the user can select the different modulatio techniques for transmitting the data.
